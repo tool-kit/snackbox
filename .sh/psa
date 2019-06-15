@@ -1,1 +1,1 @@
-docker-compose ps -a
+docker ps -a
