@@ -1,0 +1,13 @@
+{
+  "name": "snackbox",
+  "version": "0.0.1",
+  "description": "react stuff",
+  "main": "index.js",
+  "repository": "https://github.com/tool-kit/snackbox",
+  "author": "Louis Alemar",
+  "license": "GNU",
+  "scripts": {
+    "start": "node index.js",
+    "list": "ls -la"
+  }
+}

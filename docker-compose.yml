@@ -12,4 +12,4 @@ services:
     environment:
       APP_MOUNT_ID: ${APP_MOUNT_ID}
       WEBSITE_NAME: ${WEBSITE_NAME}
-    command: "node index.js"
+    command: "npm run ${NPM_SCRIPT}"
